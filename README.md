@@ -4,7 +4,7 @@
 * Steps
     * Install python package manager
         * apt-get update
-        apt-get install python3-pip
+        * apt-get install python3-pip
     * Install the cloud storage library
         *  pip3 install google-cloud-storage
     * Get the code
