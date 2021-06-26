@@ -9,7 +9,7 @@
         *  pip3 install google-cloud-storage
     * Get the code
         * git clone https://github.com/thechetantalwar/gcp-storage-python
-    cd gcp-storage-python```
+        * cd gcp-storage-python
     * Update the storage bucket name in the create_bucket.py file
         * vi create_bucket.py
     * Once done, just execute the code
