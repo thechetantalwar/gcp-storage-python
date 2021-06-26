@@ -13,5 +13,5 @@
     * Update the storage bucket name in the create_bucket.py file
         * vi create_bucket.py
     * Once done, just execute the code
-        * python3 create-bucket.py
+        * python3 create_bucket.py
     * Now, if you go to Google Cloud Console, you will see your new bucket over there
