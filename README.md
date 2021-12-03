@@ -6,11 +6,11 @@
         
             ```
             apt-get update
-            apt-get install python-pip
+            apt-get install python3-pip
             ```
         * Install the cloud storage library
 
-            ```pip install google-cloud-storage```
+            ```pip3 install google-cloud-storage```
         * Get the code
             
             ```
